@@ -47,8 +47,21 @@ For use it, here is a tutorial :
 
   -You can chose your main folder
   -You can refresh the list of all Bonzomatic of the main selected folder
+  -You can launch several Bonzomatics at the same time
   -
 
 ## Version 1.2 :
 
-  -   
+-Can detect not only 'Bonzomatic_W64_GLFW.exe' but 'Bonzomatic.exe' too
+-
+
+## Version 1.3 :
+
+-Remembers the last main file and stores it in 'bonzo_config.txt' next to the .exe
+-
+
+## Version 1.4 :
+
+-Remembers the ladt main file and stores it in /Appdata/Roaming/BonzomaticLauncher/config.txt
+-When you start a bonzomatic with Bonzomatic launcher, its rectangle will turn red as long as it is open
+-
