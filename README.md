@@ -62,6 +62,10 @@ For use it, here is a tutorial :
 
 ## Version 1.4 :
 
--Remembers the ladt main file and stores it in /Appdata/Roaming/BonzomaticLauncher/config.txt
+-Remembers the last main file and stores it in /Appdata/Roaming/BonzomaticLauncher/config.txt
 -When you start a bonzomatic with Bonzomatic launcher, its rectangle will turn red as long as it is open
 
+## Version 1.5 :
+
+-When you click on a Bonzomatic already launch in Bonzomatic Launcher, it will ask you if you want to close it
+-You can now see the bonzomatic Launcher Version in it title
