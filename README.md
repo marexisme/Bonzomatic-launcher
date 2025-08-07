@@ -1,7 +1,7 @@
 # Bonzomatic launcher is a python application make by Marex (me) and chat gpt.
 
-##This application was created to make it easier to manage a big name like Bonzomatic
-  ##And Bonzomatic is another application made by [NuSan](https://github.com/TheNuSan/Bonzomatic), [Gargaj](https://github.com/Gargaj/Bonzomatic) and [Writher](https://github.com/wrightwriter/Bonzomatic-Compute) which allows the creation of glsl shaders
+## This application was created to make it easier to manage a big name like Bonzomatic
+  ## And Bonzomatic is another application made by [NuSan](https://github.com/TheNuSan/Bonzomatic), [Gargaj](https://github.com/Gargaj/Bonzomatic) and [Writher](https://github.com/wrightwriter/Bonzomatic-Compute) which allows the creation of glsl shaders
 
 ![68747470733a2f2f692e696d6775722e636f6d2f384b38497a744c6c2e6a7067](https://github.com/user-attachments/assets/8966bca1-a61a-4c61-8818-bc333f2b4ea0)
 
