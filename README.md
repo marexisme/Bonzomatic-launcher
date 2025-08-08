@@ -45,7 +45,7 @@ For use it, here is a tutorial :
 ### Features in the application :
 ## Version 1.1 :
   
-  -You can chose your main folder
+  -You can choose your main folder
   -You can refresh the list of all Bonzomatic of the main selected folder
   -You can launch several Bonzomatics at the same time
   
