@@ -69,3 +69,7 @@ For use it, here is a tutorial :
 
 -When you click on a Bonzomatic already launch in Bonzomatic Launcher, it will ask you if you want to close it
 -You can now see the bonzomatic Launcher Version in it title
+
+## Version 1.6 :
+
+-The entire UI has been redone for a more design-led approach
