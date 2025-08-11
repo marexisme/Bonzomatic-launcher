@@ -73,3 +73,8 @@ For use it, here is a tutorial :
 ## Version 1.6 :
 
 -The entire UI has been redone for a more design-led approach
+
+## Version 1.7 :
+
+-You can now in the right click menu, open the shader.glsl of the bonzomatic which you choose
+-Graphic correction for the right click menu, now it match with the entire application
